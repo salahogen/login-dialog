@@ -1,10 +1,6 @@
 {
-  "user1": {
-   "password": "$2y$12$JipDn5XBPpifJkQXPCQO5O1Ot6gfwK1xN1vMkENpJQTZWuwQMPPWG",
-   "expiry": "31-09-2023 5:59 AM"
-  },
-  "user_two": {
-   "password": "$2y$12$2JZr2Gtd90RMwTSkJR6Af.WneAjPgZ4twfc5oJY5vfflPpCVvK6pS",
-   "expiry": "31-08-2023 5:59 AM"
-  },
+"jono1334": {
+   "password": "$2y$12$t//HHpm/S6HNOhJqsOUacuAYK9Kann0WF6OLQ9i4RjB5DZ8Lpvk.O",
+   "expiry": "30-09-2023 12:59 PM"
+},
 }
