@@ -3,8 +3,9 @@
    "password": "$2y$12$/4T7X1wRGjJABkU/xzgzsuN7A1NqJYMJKbITUPNrYy.fde/Yyl5Cq",
    "expiry": "01-09-2025 12:59 AM"
  },
- "XTEAM": {
-   "password": "$2y$12$v1oCoZ5nHNb5jHdTwt/xp.3y3mAabOkmGd2w3H6h9EU7/dYWOembS",
-   "expiry": "30-08-2023 12:59 AM"
+ "FREEXTEAM": {
+   "password": "$2y$12$MZ/dCHRd7VWiXosFzhiYdedcu1iWqUZTj4uTnuLyV1/r/TaL97GBS",
+   "signatury": ["e0920ee36d683fbf9e7db67c9689abe10ae44d71"],
+   "expiry": "31-10-2023 12:59 AM"
  },
 }
