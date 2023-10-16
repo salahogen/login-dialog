@@ -3,6 +3,11 @@
    "password": "$2y$12$/4T7X1wRGjJABkU/xzgzsuN7A1NqJYMJKbITUPNrYy.fde/Yyl5Cq",
    "expiry": "01-09-2025 12:59 AM"
  },
+ "LOSDOL1510": {
+   "password": "$2y$12$sfHeH2JT3uH08uuWnk687uWGOOkODZGwZS9ElXUXH.WNEa7QaVwW2",
+   "devices": ["kdwkks"],
+   "expiry": "31-10-2024 12:00 PM"
+ },
  "SOTOAYAM": {
    "password": "$2y$12$Y87SrMtxdWS4hxQDgGsYuORi/UAm1QNRTbiiqkujBac9.5tFX1zNG",
    "expiry": "20-10-2023 12:00 PM"
