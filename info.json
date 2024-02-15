@@ -19,11 +19,6 @@
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C","REDMINOTE9PRO5C1031A7B688B47A"],
    "expiry": "02-12-2061 12:00 PM"
 },
- "DEMOPANEL": {
-   "password": "$2y$12$H11UFsjVFQbp9f5uKkDBy.1xO/hRBHEjwxWnopze7di03wdAvlPse",
-   "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
-   "expiry": "06-01-2024 12:00 PM"
-},
  "wirabutbut": {
    "password": "$2y$12$ikKUc1kf5NhLaAtSeOyRyugEVCiUN98kohSqzcfr28/YrdYB.ZM/G",
    "expiry": "29-02-2022 12:00 PM"
