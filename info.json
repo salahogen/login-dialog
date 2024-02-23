@@ -14,19 +14,10 @@
    "devices": ["CPH1911F44FB49F3A1C10F6"],
    "expiry": "02-03-2024 12:00 PM"
 },
- "fauzan2301": {
-   "password": "$2y$12$Vt6I2kBgVFfRs8SSlFtslecQtFoMFZXe3XCwIBm0Ai7dg4kUoN0Wm",
-   "devices": ["REDMINOTE9PRO5C1031A7B688B47A","V20304BC68D7AE6BF613E"],
-   "expiry": "23-01-2024 12:00 PM"
-},
  "sayasaya": {
    "password": "$2y$12$XgLLD.4XoxdGQpnAJVZlPesckwHcAXH37sUg23wso5ZLcBVLoE3zG",
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C","REDMINOTE9PRO5C1031A7B688B47A"],
    "expiry": "02-12-2061 12:00 PM"
-},
- "wirabutbut": {
-   "password": "$2y$12$ikKUc1kf5NhLaAtSeOyRyugEVCiUN98kohSqzcfr28/YrdYB.ZM/G",
-   "expiry": "29-02-2022 12:00 PM"
 },
  "alexganteng": {
    "password": "$2y$12$b04rb85eDED3SA3MW4bEs.Wpa62jo6EQ5KOsqo7ne8vfKcCASu5tG",
