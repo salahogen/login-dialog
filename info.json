@@ -43,25 +43,10 @@
    "password": "$2y$12$1/RofS7FLpeUsy3Tsz54kO8ys6/M9dorw6o/odLVS.zKBI7aWNugK",
    "expiry": "27-11-2024 12:00 PM"
 },
- "akuakuaku": {
-   "password": "$2y$12$M3FHJDDep8AokDpyMjnis.ppl/l1HPFzBxT3FYvh4Lk2fzBvM.Ylm",
-   "devices": ["REDMINOTE9PRO80B19F190982EB9C"],
-   "expiry": "31-10-2025 12:00 PM"
-},
  "kopral45": {
    "password": "$2y$12$508qFYr3mqNr3nyj5DmWYedx0k8XfY8kqQKzNDBZybaFFiQpNLioW",
    "devices": ["REDMINOTE8FFD9A4C1135267AA","CPH1989C392F004771B09A3","M2101K7BNYFBFA813559A4DD20"],
    "expiry": "17-12-2024 12:00 PM"
-},
- "bengbeng": {
-   "password": "$2y$12$xigsxLDEie4sIWWdCF4CG.x4n61WdvfL.12EsgWUQcod0CGT1lVOW",
-   "devices": ["A526B9D093B5EC53BD55C"],
-   "expiry": "15-11-2024 12:00 PM"
-},
- "humaymay": {
-   "password": "$2y$12$kzhgTcqUyeOeSwfENR7NyuYcXUJs6Oa1zc2FULGpnbzpHUNzB1ABW",
-   "devices": ["RMX19413A17D863499C7934"],
-   "expiry": "14-11-2024 12:00 PM"
 },
  "sikeren01": {
    "password": "$2y$12$sAH5knkqIGNJVPqLqrs3auEb6py6wNLrqttFuI18Kl03Hq9aJMsce",
@@ -78,15 +63,6 @@
    "devices": ["SM-M127F5AD21C465AAFA6EF"],
    "expiry": "15-04-2024 12:00 PM"
 },
- "sayasaya": {
-   "password": "$2y$12$XgLLD.4XoxdGQpnAJVZlPesckwHcAXH37sUg23wso5ZLcBVLoE3zG",
-   "devices": ["REDMINOTE9PRO80B19F190982EB9C","REDMINOTE9PRO44DB99D653534A53","SM-A546E8E410C0C26A3F4C6","REDMINOTE9PRO3541ED5236E7E97E","REDMINOTE9PROAE1E475B658ED08D","REDMINOTE9PRO8F821C3ADFEBE55C","REDMINOTE9PRO5C1031A7B688B47A"],
-   "expiry": "02-12-2061 12:00 PM"
-},
- "alexganteng": {
-   "password": "$2y$12$b04rb85eDED3SA3MW4bEs.Wpa62jo6EQ5KOsqo7ne8vfKcCASu5tG",
-   "expiry": "30-11-2024 12:00 PM"
-},
  "LOSDOL5560": {
    "password": "$2y$12$4mtkWjkreVF9FmTyVem1EOlZvHLJrZckAL4ALys2jKuSu70L14Z5y",
    "devices": ["M2010J19CG73471D987FAFFB75","V2207DCB9208C9211D6C5","CPH2269BE07B847D7F72115","REDMINOTE9PROD37EE7806F55DAD6"],
@@ -101,10 +77,5 @@
    "password": "$2y$12$8oGWtiCMgbbtEaLT3hc7M.toRG4lmSgJmJ79p1W4f/0Bn5dyRAYk6",
    "devices": ["CPH1911F44FB49F3A1C10F6"],
    "expiry": "18-12-2024 12:00 PM"
-},
-"alexshopee": {
-   "password": "$2y$12$JGCewZhBFYMJpebXPd.qB.nix.0jKIQxLsHK8iCsID8TcYO1cqVry",
-   "devices": ["22101316G6955571D7B65231D"],
-   "expiry": "30-09-2024 12:00 PM"
 },
 }
