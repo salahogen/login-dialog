@@ -53,21 +53,6 @@
    "devices": ["ASUSI001DE730F51558876F4EB"],
    "expiry": "04-01-2025 12:00 PM"
 },
- "pres939393": {
-   "password": "$2y$12$iScj8UfMwaKJiaLe3CRAB.ppJ7lBCwbX8Jkg17ZBPKeUDxPHSeD/2",
-   "devices": ["CPH1909JJQCEYKRDMCQIBQS","SM-M127F5AD21C465AAFA6EF"],
-   "expiry": "19-03-2024 12:00 PM"
-},
- "presensi1818": {
-   "password": "$2y$12$DSyZLz1Afuu88Wmj8Eq2TuWefzczITaaULUWMPegiE06Gm305IUmi",
-   "devices": ["SM-M127F5AD21C465AAFA6EF"],
-   "expiry": "15-04-2024 12:00 PM"
-},
- "LOSDOL5560": {
-   "password": "$2y$12$4mtkWjkreVF9FmTyVem1EOlZvHLJrZckAL4ALys2jKuSu70L14Z5y",
-   "devices": ["M2010J19CG73471D987FAFFB75","V2207DCB9208C9211D6C5","CPH2269BE07B847D7F72115","REDMINOTE9PROD37EE7806F55DAD6"],
-   "expiry": "01-06-2024 12:00 PM"
-},
  "klikAsn02": {
    "password": "$2y$12$UtBrZarFKsRQQBfN7fxOk.57tALlpOLctGW7g2AfFkYgmmON/bS0S",
    "devices": ["CPH2577023B143E074D2ABA"],
