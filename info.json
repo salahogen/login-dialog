@@ -29,35 +29,6 @@
    "devices": ["23053RN02A92F91CED8B3734C2"],
    "expiry": "02-01-2025 12:00 PM"
 },
- "gopart03": {
-   "password": "$2y$12$.HNY1zoUZlAizf/AY09ddezBc9ZXWKvazVjYtazUqn20k.pCgRt9W",
-   "devices": ["VIVO20194C41A82A4C412BCD"],
-   "expiry": "17-12-2024 12:00 PM"
-},
- "rudirudi": {
-   "password": "$2y$12$mh6f0Yl36riCjts5Jn2XSO7ApzRWa5MIfeoKq6enQS8igQMI1chWq",
-   "devices": ["REDMINOTE73EDB751176656463"],
-   "expiry": "30-11-2024 12:00 PM"
-},
- "matboogel": {
-   "password": "$2y$12$gHHaq2KZ.kpbSw7He8aR7.OTgvAp6daDsSE5KvbVUn0A4T7VLhcOS",
-   "devices": ["REDMINOTE106A27EDE3273C0177"],
-   "expiry": "09-12-2024 12:00 PM"
-},
- "adealfian": {
-   "password": "$2y$12$J5l8mTwD4okJMJjY9omXUOAQBg44TVAwozrQo4pifO3dhqvLhKIiy",
-   "devices": ["REDMINOTE5A4E2DD43A"],
-   "expiry": "30-11-2024 12:00 PM"
-},
-"SAHABATDIMAS": {
-   "password": "$2y$12$1/RofS7FLpeUsy3Tsz54kO8ys6/M9dorw6o/odLVS.zKBI7aWNugK",
-   "expiry": "27-11-2024 12:00 PM"
-},
- "kopral45": {
-   "password": "$2y$12$508qFYr3mqNr3nyj5DmWYedx0k8XfY8kqQKzNDBZybaFFiQpNLioW",
-   "devices": ["REDMINOTE8B2481A30D2364A41","REDMINOTE8FFD9A4C1135267AA","CPH1989C392F004771B09A3","M2101K7BNYFBFA813559A4DD20"],
-   "expiry": "17-12-2024 12:00 PM"
-},
  "sikeren01": {
    "password": "$2y$12$sAH5knkqIGNJVPqLqrs3auEb6py6wNLrqttFuI18Kl03Hq9aJMsce",
    "devices": ["ASUSI001DE730F51558876F4EB"],
