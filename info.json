@@ -19,20 +19,15 @@
    "devices": ["M2007J20CG008EF9260609D27A","REDMINOTE53F588D84874AB0C2","TECNOLI7A50BCC1F5E17D7DB"],
    "expiry": "31-01-2025 12:00 PM"
 },
- "danidani2": {
+  "danidani2": {
    "password": "$2y$12$DcdjqoYIQYmtgaZjHD.L4O3sXZVIMgdte/om7nA/NV1chM/Fo8R32",
    "devices": ["22071219CGE95294A9E10453ED"],
    "expiry": "18-02-2025 12:00 PM"
 },
- "danidani1": {
+  "danidani1": {
    "password": "$2y$12$/Hp3teBdbNDiFxjSp6lv3.3JneTAeNDe4VA/TtLRfmuxYgu43b0qC",
    "devices": ["V2352DA772D1943BA2F87"],
    "expiry": "18-02-2025 12:00 PM"
-},
- "danidani": {
-   "password": "$2y$12$C2ABJ9JL9LZ3DzLNPZENVuMXg/EOtquR9Ey38ue5zPJmxLEqPBSOa",
-   "devices": ["23053RN02A92F91CED8B3734C2"],
-   "expiry": "02-01-2025 12:00 PM"
 },
  "sikeren01": {
    "password": "$2y$12$sAH5knkqIGNJVPqLqrs3auEb6py6wNLrqttFuI18Kl03Hq9aJMsce",
