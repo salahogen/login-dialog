@@ -1,8 +1,8 @@
 {
-"FAKE30000": {
-   "password": "$2y$12$EKIdo156edua053yMETGsuVL5bLkec/0l.KtD7avBY49WC0TWS7Tm",
-   "devices": ["21121119SG45FB7042130B3DDE"],
-   "expiry": "25-02-2025 12:00 PM"
+"test1234": {
+   "password": "$2y$12$rc161TLd..aMwyJaUbdG6eyKOqE9Jsb2tzDCgaPZAX/zPSkLtgvki",
+   "devices": ["M2010J19CGE7192497DA20C1DF"],
+   "expiry": "01-03-2025 12:00 PM"
 },
  "rohmanrohim": {
    "password": "$2y$12$y/IHdOmIITp54cMlPkRnL.vJ0wb/pJjsuMqe/pMFzXhel/Od8kpnO",
