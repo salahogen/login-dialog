@@ -1,29 +1,4 @@
 {
- "rohmanrohim": {
-   "password": "$2y$12$y/IHdOmIITp54cMlPkRnL.vJ0wb/pJjsuMqe/pMFzXhel/Od8kpnO",
-   "devices": ["REDMINOTE8FFD9A4C1135267AA"],
-   "expiry": "28-02-2025 12:00 PM"
-},
- "alex2222": {
-   "password": "$2y$12$2qWBuL887WAQ30kGLPOKmuo4cqGMBT9zdOR5plgfP1sI59uyDjAwa",
-   "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
-   "expiry": "13-01-2027 12:00 PM"
-},
- "ayungayung": {
-   "password": "$2y$12$iq38sHHK7HbFkPC3QwKx0OWhAG4l9EmOCH4m0WeTBAR0ntRHIEKpi",
-   "devices": ["M2007J20CG008EF9260609D27A","REDMINOTE53F588D84874AB0C2","TECNOLI7A50BCC1F5E17D7DB"],
-   "expiry": "31-01-2025 12:00 PM"
-},
-  "danidani2": {
-   "password": "$2y$12$DcdjqoYIQYmtgaZjHD.L4O3sXZVIMgdte/om7nA/NV1chM/Fo8R32",
-   "devices": ["22071219CGE95294A9E10453ED"],
-   "expiry": "18-02-2025 12:00 PM"
-},
-  "danidani1": {
-   "password": "$2y$12$/Hp3teBdbNDiFxjSp6lv3.3JneTAeNDe4VA/TtLRfmuxYgu43b0qC",
-   "devices": ["V2352DA772D1943BA2F87"],
-   "expiry": "18-02-2025 12:00 PM"
-},
  "sikeren01": {
    "password": "$2y$12$sAH5knkqIGNJVPqLqrs3auEb6py6wNLrqttFuI18Kl03Hq9aJMsce",
    "devices": ["ASUSI001DE730F51558876F4EB"],
@@ -32,11 +7,11 @@
  "klikAsn02": {
    "password": "$2y$12$UtBrZarFKsRQQBfN7fxOk.57tALlpOLctGW7g2AfFkYgmmON/bS0S",
    "devices": ["CPH2577023B143E074D2ABA"],
-   "expiry": "18-03-2025 12:00 PM"
+   "expiry": "18-04-2025 12:00 PM"
 },
  "klik393993": {
    "password": "$2y$12$8oGWtiCMgbbtEaLT3hc7M.toRG4lmSgJmJ79p1W4f/0Bn5dyRAYk6",
    "devices": ["CPH1911F44FB49F3A1C10F6"],
-   "expiry": "18-03-2025 12:00 PM"
+   "expiry": "18-04-2025 12:00 PM"
 },
 }
