@@ -14,4 +14,9 @@
    "devices": ["CPH1911F44FB49F3A1C10F6"],
    "expiry": "18-04-2025 12:00 PM"
 },
+ "sayasaya": {
+   "password": "$2y$12$aqaGhWk3/9s0tf9AI9E75OIxaSiRUeZRkhaiuIA3pEQdrbzPnop4C",
+   "devices": ["REDMINOTE9PROCBA987F7E3D38A69"],
+   "expiry": "30-04-2029 12:00 PM"
+},
 }
