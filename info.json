@@ -14,10 +14,10 @@
    "devices": ["CPH1911F44FB49F3A1C10F6"],
    "expiry": "18-10-2025 12:00 PM"
 },
- "sayasaya": {
-   "password": "$2y$12$aqaGhWk3/9s0tf9AI9E75OIxaSiRUeZRkhaiuIA3pEQdrbzPnop4C",
-   "devices": ["SM-A045FAD96B2D3E1E4EBC2","SM-A105G3D0EF76FC277DA15","MOTOG(5S)PLUS99387BF308C9619C","REDMINOTE5A14B8D80DAF84EAF8","REDMI5AFB47872063C2ACB7","REDMINOTE9PROCBA987F7E3D38A69"],
-   "expiry": "30-04-2029 12:00 PM"
+"sayasaya": {
+   "password": "$2y$12$eFGufCbzlmot.9IqzjpCGOzwTf87YjA3IIKGmVcopnWtrjiSDlz7y",
+   "devices": ["REDMINOTE9PRO47B0140E2D497C6A"],
+   "expiry": "26-09-2025 12:00 PM"
 },
  "testpanel1": {
    "password": "$2y$12$aqkRVXeiDzLHfk5c6cJyveNVXXty4hrrUk4BA/1DPh38NlDUi2TCO",
