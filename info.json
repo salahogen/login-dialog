@@ -19,10 +19,10 @@
    "devices": ["REDMINOTE9PRO47B0140E2D497C6A"],
    "expiry": "26-09-2025 12:00 PM"
 },
- "testpanel1": {
-   "password": "$2y$12$aqkRVXeiDzLHfk5c6cJyveNVXXty4hrrUk4BA/1DPh38NlDUi2TCO",
-   "devices": ["2312DRA50G2FE8C69A1C7A2F3F"],
-   "expiry": "14-09-2025 12:00 PM"
+"bigbosmojang": {
+   "password": "$2y$12$JiFaNysr0TZgwq0st.fsVuvix/oDoK.54mbfOh7ShlrhYCxCGUCe.",
+   "devices": ["SM-A305FD4BA499DEAFF8FC1"],
+   "expiry": "20-10-2025 12:00 PM"
 },
  "rohman0101": {
    "password": "$2y$12$7rxxd2N4NeOkCy5XNPN6oOa9PiQk8nrZWyYDWORDKw6WyKvx4uTu6",
