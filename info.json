@@ -24,9 +24,9 @@
    "devices": ["SM-A305FD4BA499DEAFF8FC1"],
    "expiry": "20-10-2025 12:00 PM"
 },
- "rohman0101": {
-   "password": "$2y$12$7rxxd2N4NeOkCy5XNPN6oOa9PiQk8nrZWyYDWORDKw6WyKvx4uTu6",
-   "devices": ["REDMINOTE8FFD9A4C1135267AA"],
-   "expiry": "17-07-2025 12:00 PM"
+"checktest": {
+   "password": "$2y$12$/5h5yEfi7hZvlqr3hMvDFuBcufreZlr.ebGU0OcdIILZy/6Eus90a",
+   "devices": ["SM-G996BBF921E7741F8769F"],
+   "expiry": "23-09-2025 12:00 PM"
 },
 }
