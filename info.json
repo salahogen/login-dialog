@@ -19,10 +19,10 @@
    "devices": ["24090RA29G7E4AFF29B05EF9CA","REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "26-09-2026 12:00 PM"
 },
-"bigbosmojang": {
-   "password": "$2y$12$JiFaNysr0TZgwq0st.fsVuvix/oDoK.54mbfOh7ShlrhYCxCGUCe.",
-   "devices": ["SM-A305FD4BA499DEAFF8FC1"],
-   "expiry": "20-10-2025 12:00 PM"
+"fakegps22": {
+   "password": "$2y$12$e4r.tPinLcfI.UM98T.4x.gCI7Y1PSp84tgcnivEk.wJkAqJr7j0m",
+   "devices": ["REDMINOTE8PRO44480417280FCF4E"],
+   "expiry": "29-10-2025 12:00 PM"
 },
 "checktest": {
    "password": "$2y$12$/5h5yEfi7hZvlqr3hMvDFuBcufreZlr.ebGU0OcdIILZy/6Eus90a",
