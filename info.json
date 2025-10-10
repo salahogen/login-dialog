@@ -38,4 +38,9 @@
    "devices": ["REDMINOTE5PRO44E154D25F927ECC"],
    "expiry": "28-10-2025 12:00 PM"
 },
+    "joki3333": {
+   "password": "$2y$12$RH5kgMIO9oXjSHcyQDSB2uX7KEGAfrleZHWcim223eUPUjx3qCg.m",
+   "devices": ["SM-G610F3300B21DDB042473"],
+   "expiry": "10-11-2025 12:00 PM"
+},
 }
