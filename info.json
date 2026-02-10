@@ -19,28 +19,4 @@
    "devices": ["REDMINOTE9PRO47B0140E2D497C6A","REDMINOTE5A8390A0F089991DE3","24090RA29GE4B8F73B122C1264","24090RA29G7E4AFF29B05EF9CA","REDMINOTE9PROCBA987F7E3D38A69"],
    "expiry": "26-09-2026 12:00 PM"
 },
-"fakegps22": {
-   "password": "$2y$12$e4r.tPinLcfI.UM98T.4x.gCI7Y1PSp84tgcnivEk.wJkAqJr7j0m",
-   "devices": ["REDMINOTE8PRO44480417280FCF4E"],
-   "expiry": "29-10-2025 12:00 PM"
-},
-"checktest": {
-   "password": "$2y$12$/5h5yEfi7hZvlqr3hMvDFuBcufreZlr.ebGU0OcdIILZy/6Eus90a",
-   "devices": ["SM-G996BBF921E7741F8769F"],
-   "expiry": "23-09-2025 12:00 PM"
-},
-"MOJANGAPK": {
-   "password": "$2y$12$04Jmct83lOoBEjK7B3rlOerU0PsthONvHEWgxxdD6C9Vaz748bbia",
-   "expiry": "01-09-2022 12:00 PM"
-},
- "44e154d25f927ecc": {
-   "password": "$2y$12$yJoptbptAc/BP/XGlDk1u.ZZFZg/sMA4aGM2icry4hY/ijGbszEle",
-   "devices": ["REDMINOTE5PRO44E154D25F927ECC"],
-   "expiry": "23-11-2025 12:00 PM"
-},
-    "joki3333": {
-   "password": "$2y$12$RH5kgMIO9oXjSHcyQDSB2uX7KEGAfrleZHWcim223eUPUjx3qCg.m",
-   "devices": ["SM-G610F3300B21DDB042473"],
-   "expiry": "10-11-2025 12:00 PM"
-},
 }
